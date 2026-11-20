@@ -1,6 +1,6 @@
-<img src="./banner.svg" width="100%" alt="banner" />
+<!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Divyesh%20Jadav&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Analyst%20%7C%20Dashboard%20Builder%20%7C%20Python%20%26%20SQL%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="banner" />
+  <img src="./banner.svg" width="100%" alt="banner" />
 </p>
 
 <p align="center">
@@ -24,8 +24,8 @@
 
 ```yaml
 name:        Divyesh Jadav
-role:        Aspiring Data Analyst
-location:    India 🇮🇳
+role:        Aspiring Data Analyst & AI Engineer
+location:    Surat, India 🇮🇳
 focus:       Dashboards, Data Cleaning, Business Insights
 learning:    Advanced SQL, Python for Data Analysis
 building:    Real-world company dashboards
@@ -100,46 +100,4 @@ fun_fact:    I love making boring numbers look beautiful 😄
 <br>
 
 <!-- ======================= STATS ======================= -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamdivyeshjadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdivyeshjadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamdivyeshjadav&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamdivyeshjadav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdivyeshjadav&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
-</p>
-
-<br>
-
-<!-- ======================= CONNECT ======================= -->
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/iamdivyeshjadav">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Without data, you're just another person with an opinion."</i> 📈
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="footer" />
-</p>
+<h2
