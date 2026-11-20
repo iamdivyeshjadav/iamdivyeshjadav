@@ -1,4 +1,4 @@
-<!-- ======================= BANNER ======================= -->
+<img src="./banner.svg" width="100%" alt="banner" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Divyesh%20Jadav&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Analyst%20%7C%20Dashboard%20Builder%20%7C%20Python%20%26%20SQL%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="banner" />
 </p>
